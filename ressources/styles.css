@@ -86,7 +86,7 @@ h3 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(/Users/shanzil/Desktop/projects/codecademy/otop-club/ressources/img/banner.jpeg);
+    background-image: url(/otop/ressources/img/banner.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -152,35 +152,35 @@ h3 {
 
 .event-1 {
     grid-column: 1/4;
-    background-image: url(/Users/shanzil/Desktop/projects/codecademy/otop-club/ressources/img/event-1.jpeg);
+    background-image: url(/otop/ressources/img/event-1.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
 }
 
 .event-2 {
-    background-image: url(/Users/shanzil/Desktop/projects/codecademy/otop-club/ressources/img/event-2.jpeg);
+    background-image: url(/otop/ressources/img/event-2.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
 }
 
 .event-3 {
-    background-image: url(/Users/shanzil/Desktop/projects/codecademy/otop-club/ressources/img/event-3.png);
+    background-image: url(/otop/ressources/img/event-3.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .event-4 {
     grid-column: 2/4;
-    background-image: url(/Users/shanzil/Desktop/projects/codecademy/otop-club/ressources/img/event-4.jpeg);
+    background-image: url(/otop/ressources/img/event-4.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .event-5 {
-    background-image: url(/Users/shanzil/Desktop/projects/codecademy/otop-club/ressources/img/event-5.jpeg);
+    background-image: url(/otop/ressources/img/event-5.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -258,7 +258,7 @@ a.btn-event {
 }
 
 .team {
-    background-image: url(/Users/shanzil/Desktop/projects/codecademy/otop-club/ressources/img/team.avif);
+    background-image: url(/otop/ressources/img/team.avif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -324,7 +324,7 @@ a.btn-about {
     justify-content: flex-end;
     align-items: center;
     padding-bottom: 0.5rem;
-    background-image: url(/Users/shanzil/Desktop/projects/codecademy/otop-club/ressources/img/winter-magazine.png);
+    background-image: url(/otop/ressources/img/winter-magazine.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -375,7 +375,7 @@ a.btn-about {
     height: 30rem;
     display: flex;
     flex-direction: column;
-    background-image: url(/Users/shanzil/Desktop/projects/codecademy/otop-club/ressources/img/month-pic.jpeg);
+    background-image: url(/otop/ressources/img/month-pic.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
